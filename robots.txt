@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sbproperty-lettings.com/sitemap.xml
